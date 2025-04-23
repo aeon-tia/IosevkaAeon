@@ -32,55 +32,67 @@ I chose the letterforms of this custom variant to match [FF Letter Gothic Mono](
 
 ## Specimens
 
-### Iosevka Aeon Nerd Font 
+### Iosevka Aeon Nerd Font
 
-#### Regular
+#### Normal
+
+Regular
 
 ![Iosevka Aeon Nerd Font Regular](https://github.com/user-attachments/assets/8616a870-d0e1-44ba-9112-71dcd191bb37)
 
-#### Italic
+Italic
 
 ![Iosevka Aeon Nerd Font Italic](https://github.com/user-attachments/assets/70ea2aad-db42-4cd9-b213-cb0fc5322daf)
 
-#### SemiCondensed Regular
+#### SemiCondensed
+
+Regular
 
 ![Iosevka Aeon Nerd Font SemiCondensed Regular](https://github.com/user-attachments/assets/f2dd2f5a-9be0-4d13-a144-e1c59010c5ee)
 
-#### SemiCondensed Italic
+Italic
 
 ![Iosevka Aeon Nerd Font SemiCondensed Italic](https://github.com/user-attachments/assets/4b530ea2-8b8f-4b50-b066-c820363f47dc)
 
-#### Condensed Regular
+#### Condensed
+
+Regular
 
 ![Iosevka Aeon Nerd Font Condensed Regular](https://github.com/user-attachments/assets/0b7a6538-f21a-4ba3-aa84-7baa5b1c6a43)
 
-#### Condensed Italic
+Italic
 
 ![Iosevka Aeon Nerd Font Condensed Italic](https://github.com/user-attachments/assets/42051bea-8968-4bf0-a8ca-f11da1a1b240)
 
 ### Iosevka Aeon Aile 
 
-#### Regular
+#### Normal
+
+Regular
 
 ![Iosevka Aeon Aile Regular](https://github.com/user-attachments/assets/202886f3-ce45-4ccd-9a0a-aa024298c98e)
 
-#### Italic
+Italic
 
 ![Iosevka Aeon Aile Italic](https://github.com/user-attachments/assets/e734e62c-4d7c-4359-8465-800e8e8a29de)
 
-#### Regular SemiCondensed
+#### SemiCondensed
+
+Regular
 
 ![Iosevka Aeon Aile Regular SemiCondensed](https://github.com/user-attachments/assets/441f452b-1192-4f23-9d49-9a832bd90035)
 
-#### Italic SemiConsensed
+Italic
 
 ![Iosevka Aeon Aile Italic SemiConsensed](https://github.com/user-attachments/assets/a21609f4-3646-458c-ac57-0d75437631d3)
 
-#### Condensed Regular
+#### Condensed
+
+Regular
 
 ![Iosevka Aeon Aile Condensed Regular](https://github.com/user-attachments/assets/4c3e3f0c-8369-47ce-8b71-bca0fe214498)
 
-#### Condensed Italic
+Italic
 
 ![Iosevka Aeon Aile Condensed Italic](https://github.com/user-attachments/assets/efb122bc-9e06-42c1-abe9-7402ce754726)
 
