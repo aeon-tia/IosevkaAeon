@@ -22,6 +22,8 @@ Download the TTF files you want and install them as system fonts by the normal f
 
 Currently only TTF use is supported. WOFF support is planned.
 
+If you'd like to build the fonts yourself, you can use the included `private-build-plans.toml` and follow the [custom build instructions](https://github.com/be5invis/Iosevka/blob/main/doc/custom-build.md) to do so.
+
 ## Inspiration
 
 I chose the letterforms of this custom variant to match [FF Letter Gothic Mono](https://www.myfonts.com/collections/letter-gothic-mono-font-fontfont), as closly as possible, with three intentional deviations:
