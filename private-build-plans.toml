@@ -1,93 +1,20 @@
-[buildPlans.IosevkaAeon]
-family = "Iosevka Aeon"
-spacing = "fontconfig-mono"
-serifs = "sans"
-noCvSs = true
-exportGlyphNames = true
-
-[buildPlans.IosevkaAeon.variants.design]
-one = "no-base"
-four = "closed-serifless"
-six = "open-contour"
-seven = "bend-serifless"
-nine = "open-contour"
-zero = "oval-slashed"
-capital-j = "serifless"
-i = "hooky"
-l = "zshaped"
-t = "bent-hook-short-neck2"
-y = "straight-turn-serifless"
-lower-iota = "tailed-serifed"
-lower-kappa = "curly-serifless"
-lower-lambda = "tailed-turn"
-lower-tau = "tailed"
-lower-chi = "semi-chancery-straight-serifless"
-lower-psi = "flat-top-serifed"
-
-[buildPlans.IosevkaAeon.variants.italic]
-one = "no-base"
-four = "closed-serifless"
-six = "open-contour"
-seven = "bend-serifless"
-nine = "open-contour"
-zero = "oval-slashed"
-capital-j = "serifless"
-f = "tailed"
-i = "hooky"
-k = "straight-serifless"
-l = "zshaped"
-t = "bent-hook-short-neck2"
-lower-iota = "tailed-serifed"
-lower-kappa = "curly-serifless"
-lower-lambda = "tailed-turn"
-lower-tau = "tailed"
-lower-psi = "flat-top-serifed"
-
-[buildPlans.IosevkaAeon.widths.Condensed]
-shape = 500
-menu = 3
-css = "condensed"
-
-[buildPlans.IosevkaAeon.widths.Normal]
-shape = 600
-menu = 5
-css = "normal"
-
-[buildPlans.IosevkaAeon.widths.SemiCondensed]
-shape = 548
-menu = 4
-css = "semi-condensed"
-
-[buildPlans.IosevkaAeon.slopes.Upright]
-angle = 0
-shape = "upright"
-menu = "upright"
-css = "normal"
-
-[buildPlans.IosevkaAeon.slopes.Italic]
-angle = 9.4
-shape = "italic"
-menu = "italic"
-css = "italic"
-
-
-[buildPlans.IosevkaAeonAile]
-family = "Iosevka Aeon Aile"
+[buildPlans.Aeon]
+family = "Aeon"
 spacing = "quasi-proportional"
 serifs = "sans"
 noCvSs = true
 exportGlyphNames = true
 
-[buildPlans.IosevkaAeonAile.variants.design]
-one = "no-base"
+[buildPlans.Aeon.variants.design]
+one = "base"
 four = "closed-serifless"
 six = "open-contour"
 seven = "bend-serifless"
 nine = "open-contour"
 zero = "oval-unslashed"
-capital-j = "serifless"
+capital-j = "serifed"
 i = "hooky"
-l = "zshaped"
+l = "hooky"
 t = "bent-hook-short-neck2"
 y = "straight-turn-serifless"
 lower-iota = "tailed-serifed"
@@ -99,18 +26,18 @@ lower-psi = "flat-top-serifed"
 ascii-grave = "raised-turn-comma"
 ascii-single-quote = "raised-comma"
 
-[buildPlans.IosevkaAeonAile.variants.italic]
-one = "no-base"
+[buildPlans.Aeon.variants.italic]
+one = "base"
 four = "closed-serifless"
 six = "open-contour"
 seven = "bend-serifless"
 nine = "open-contour"
 zero = "oval-unslashed"
-capital-j = "serifless"
+capital-j = "serifed"
 f = "tailed"
 i = "hooky"
 k = "straight-serifless"
-l = "zshaped"
+l = "hooky"
 t = "bent-hook-short-neck2"
 lower-iota = "tailed-serifed"
 lower-kappa = "curly-serifless"
@@ -118,28 +45,101 @@ lower-lambda = "tailed-turn"
 lower-tau = "tailed"
 lower-psi = "flat-top-serifed"
 
-[buildPlans.IosevkaAeonAile.widths.Condensed]
+[buildPlans.Aeon.widths.Condensed]
 shape = 500
 menu = 3
 css = "condensed"
 
-[buildPlans.IosevkaAeonAile.widths.Normal]
+[buildPlans.Aeon.widths.Normal]
 shape = 600
 menu = 5
 css = "normal"
 
-[buildPlans.IosevkaAeonAile.widths.SemiCondensed]
+[buildPlans.Aeon.widths.SemiCondensed]
 shape = 548
 menu = 4
 css = "semi-condensed"
 
-[buildPlans.IosevkaAeonAile.slopes.Upright]
+[buildPlans.Aeon.slopes.Upright]
 angle = 0
 shape = "upright"
 menu = "upright"
 css = "normal"
 
-[buildPlans.IosevkaAeonAile.slopes.Italic]
+[buildPlans.Aeon.slopes.Italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
+
+
+[buildPlans.AeonMono]
+family = "Aeon Mono"
+spacing = "normal"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = true
+
+[buildPlans.AeonMono.variants.design]
+one = "base"
+four = "closed-serifless"
+six = "open-contour"
+seven = "bend-serifless"
+nine = "open-contour"
+zero = "oval-tall-slashed"
+capital-j = "serifed"
+i = "hooky"
+l = "hooky"
+t = "bent-hook-short-neck2"
+y = "straight-turn-serifless"
+lower-iota = "tailed-serifed"
+lower-kappa = "curly-serifless"
+lower-lambda = "tailed-turn"
+lower-tau = "tailed"
+lower-chi = "semi-chancery-straight-serifless"
+lower-psi = "flat-top-serifed"
+
+[buildPlans.AeonMono.variants.italic]
+one = "base"
+four = "closed-serifless"
+six = "open-contour"
+seven = "bend-serifless"
+nine = "open-contour"
+zero = "oval-slashed"
+capital-j = "serifed"
+f = "tailed"
+i = "hooky"
+k = "straight-serifless"
+l = "hooky"
+t = "bent-hook-short-neck2"
+lower-iota = "tailed-serifed"
+lower-kappa = "curly-serifless"
+lower-lambda = "tailed-turn"
+lower-tau = "tailed"
+lower-psi = "flat-top-serifed"
+
+[buildPlans.AeonMono.widths.Condensed]
+shape = 500
+menu = 3
+css = "condensed"
+
+[buildPlans.AeonMono.widths.Normal]
+shape = 600
+menu = 5
+css = "normal"
+
+[buildPlans.AeonMono.widths.SemiCondensed]
+shape = 548
+menu = 4
+css = "semi-condensed"
+
+[buildPlans.AeonMono.slopes.Upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.AeonMono.slopes.Italic]
 angle = 9.4
 shape = "italic"
 menu = "italic"
