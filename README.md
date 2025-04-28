@@ -1,16 +1,14 @@
-# Iosevka Aeon
+# Aeon Font
 
 My customized version of [Iosekva](https://github.com/be5invis/Iosevka).
 
 ## Variants
 
-Normal, SemiCondensed, and Condensed widths are available for all variants.
+Regular, SemiCondensed, and Condensed widths are available for all variants.
 
 ### Monospaced
 
-The monospaced variant, Iosevka Aeon Nerd Font, is intended for use in terminals, text editors, IDEs, etc. It has been patched with all [Nerd Font](https://www.nerdfonts.com/) icons using their [font patcher](https://github.com/ryanoasis/nerd-fonts?tab=readme-ov-file#font-patcher).
-
-This variant uses FontConfig monospacing, so most terminal emulators should automatically detect it.
+The monospaced variant, is intended for use in terminals, text editors, IDEs, etc. A Nerd Font version Aeon Mono, Aeon Mono Nerd Font, is also available, which has been patched with all [Nerd Font](https://www.nerdfonts.com/) icons using their [font patcher](https://github.com/ryanoasis/nerd-fonts?tab=readme-ov-file#font-patcher).
 
 ### Quasi-proportional
 
@@ -26,76 +24,72 @@ If you'd like to build the fonts yourself, you can use the included `private-bui
 
 ## Inspiration
 
-I chose the letterforms of this custom variant to match [FF Letter Gothic Mono](https://www.myfonts.com/collections/letter-gothic-mono-font-fontfont), as closly as possible, with three intentional deviations:
-
-1. Lowercase `l`: A rightward serif has been added to the base. This further distinguishes the letter `l` from the numeral `1`.
-2. Uppercase `J`: The leftward serif on the ascender has been removed. This makes `J` more harmonious with the other more minimalist uppercase letters.
-3. Numeral `1`: The symmetric serifs at the base have been removed. This was just a personal preference and may be revised in future builds.
+I chose the letterforms of this custom variant to match [FF Letter Gothic Mono](https://www.myfonts.com/collections/letter-gothic-mono-font-fontfont).
 
 ## Specimens
 
-### Iosevka Aeon Nerd Font
+### Aeon Mono
 
-#### Normal
+#### Regular
 
 Regular
 
-![Iosevka Aeon Nerd Font Regular](https://github.com/user-attachments/assets/8616a870-d0e1-44ba-9112-71dcd191bb37)
+![Regular](https://github.com/user-attachments/assets/dd38bcad-ded1-4cc4-9897-d862bc72adf1)
 
 Italic
 
-![Iosevka Aeon Nerd Font Italic](https://github.com/user-attachments/assets/70ea2aad-db42-4cd9-b213-cb0fc5322daf)
+![Italic](https://github.com/user-attachments/assets/9fa48dd2-8d0e-442b-8f0d-fadb976727e0)
 
 #### SemiCondensed
 
 Regular
 
-![Iosevka Aeon Nerd Font SemiCondensed Regular](https://github.com/user-attachments/assets/f2dd2f5a-9be0-4d13-a144-e1c59010c5ee)
+![SemiCondensed Regular](https://github.com/user-attachments/assets/1b778d38-f35f-4e87-a4ba-a799dbec192b)
 
 Italic
 
-![Iosevka Aeon Nerd Font SemiCondensed Italic](https://github.com/user-attachments/assets/4b530ea2-8b8f-4b50-b066-c820363f47dc)
+![SemiCondensed Italic](https://github.com/user-attachments/assets/3e2582a6-0c55-40e4-981b-ee7d366d7024)
 
 #### Condensed
 
 Regular
 
-![Iosevka Aeon Nerd Font Condensed Regular](https://github.com/user-attachments/assets/0b7a6538-f21a-4ba3-aa84-7baa5b1c6a43)
+![Condensed Regular](https://github.com/user-attachments/assets/9bb0c5cc-25eb-4051-bb44-b7f90dc98767)
 
 Italic
 
-![Iosevka Aeon Nerd Font Condensed Italic](https://github.com/user-attachments/assets/42051bea-8968-4bf0-a8ca-f11da1a1b240)
+![Condensed Italic](https://github.com/user-attachments/assets/c0a8379c-ca85-48bb-8b65-04298ba9a609)
 
-### Iosevka Aeon Aile 
+### Aeon 
 
 #### Normal
 
 Regular
 
-![Iosevka Aeon Aile Regular](https://github.com/user-attachments/assets/202886f3-ce45-4ccd-9a0a-aa024298c98e)
+![Regular](https://github.com/user-attachments/assets/5b686649-9d20-4e2a-8926-af6d0f38823b)
 
 Italic
 
-![Iosevka Aeon Aile Italic](https://github.com/user-attachments/assets/e734e62c-4d7c-4359-8465-800e8e8a29de)
+![Italic](https://github.com/user-attachments/assets/26f0fc8d-acff-4f5e-9f31-6d6f88db67a7)
 
 #### SemiCondensed
 
 Regular
 
-![Iosevka Aeon Aile Regular SemiCondensed](https://github.com/user-attachments/assets/441f452b-1192-4f23-9d49-9a832bd90035)
+![SemiCondensed Regular](https://github.com/user-attachments/assets/362572cd-5a8c-4ab8-a307-38bda734b358)
 
 Italic
 
-![Iosevka Aeon Aile Italic SemiConsensed](https://github.com/user-attachments/assets/a21609f4-3646-458c-ac57-0d75437631d3)
+![SemiCondensed Italic](https://github.com/user-attachments/assets/515757e1-58df-4886-a60a-7c8a7f52c4bf)
 
 #### Condensed
 
 Regular
 
-![Iosevka Aeon Aile Condensed Regular](https://github.com/user-attachments/assets/4c3e3f0c-8369-47ce-8b71-bca0fe214498)
+![Condensed Regular](https://github.com/user-attachments/assets/a77dc81b-f71b-4424-95a3-c19ecf57decd)
 
 Italic
 
-![Iosevka Aeon Aile Condensed Italic](https://github.com/user-attachments/assets/efb122bc-9e06-42c1-abe9-7402ce754726)
+![Condensed Italic](https://github.com/user-attachments/assets/fa013619-6fcb-4bbc-a06c-083b3e415762)
 
 Specimens produced with [Wakamai Fondue](https://wakamaifondue.com/).
