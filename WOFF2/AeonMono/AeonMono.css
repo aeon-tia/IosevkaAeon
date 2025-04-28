@@ -1,0 +1,486 @@
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/Condensed/AeonMono-CondensedThin.woff2') format('woff2'), url('TTF/AeonMono/Condensed/AeonMono-CondensedThin.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/Regular/AeonMono-Thin.woff2') format('woff2'), url('TTF/AeonMono/Regular/AeonMono-Thin.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: semi-condensed;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/SemiCondensed/AeonMono-SemiCondensedThin.woff2') format('woff2'), url('TTF/AeonMono/SemiCondensed/AeonMono-SemiCondensedThin.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/Condensed/AeonMono-CondensedThinItalic.woff2') format('woff2'), url('TTF/AeonMono/Condensed/AeonMono-CondensedThinItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/Regular/AeonMono-ThinItalic.woff2') format('woff2'), url('TTF/AeonMono/Regular/AeonMono-ThinItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: semi-condensed;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/SemiCondensed/AeonMono-SemiCondensedThinItalic.woff2') format('woff2'), url('TTF/AeonMono/SemiCondensed/AeonMono-SemiCondensedThinItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/Condensed/AeonMono-CondensedExtraLight.woff2') format('woff2'), url('TTF/AeonMono/Condensed/AeonMono-CondensedExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/Regular/AeonMono-ExtraLight.woff2') format('woff2'), url('TTF/AeonMono/Regular/AeonMono-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: semi-condensed;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/SemiCondensed/AeonMono-SemiCondensedExtraLight.woff2') format('woff2'), url('TTF/AeonMono/SemiCondensed/AeonMono-SemiCondensedExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/Condensed/AeonMono-CondensedExtraLightItalic.woff2') format('woff2'), url('TTF/AeonMono/Condensed/AeonMono-CondensedExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/Regular/AeonMono-ExtraLightItalic.woff2') format('woff2'), url('TTF/AeonMono/Regular/AeonMono-ExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: semi-condensed;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/SemiCondensed/AeonMono-SemiCondensedExtraLightItalic.woff2') format('woff2'), url('TTF/AeonMono/SemiCondensed/AeonMono-SemiCondensedExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/Condensed/AeonMono-CondensedLight.woff2') format('woff2'), url('TTF/AeonMono/Condensed/AeonMono-CondensedLight.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/Regular/AeonMono-Light.woff2') format('woff2'), url('TTF/AeonMono/Regular/AeonMono-Light.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: semi-condensed;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/SemiCondensed/AeonMono-SemiCondensedLight.woff2') format('woff2'), url('TTF/AeonMono/SemiCondensed/AeonMono-SemiCondensedLight.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/Condensed/AeonMono-CondensedLightItalic.woff2') format('woff2'), url('TTF/AeonMono/Condensed/AeonMono-CondensedLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/Regular/AeonMono-LightItalic.woff2') format('woff2'), url('TTF/AeonMono/Regular/AeonMono-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: semi-condensed;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/SemiCondensed/AeonMono-SemiCondensedLightItalic.woff2') format('woff2'), url('TTF/AeonMono/SemiCondensed/AeonMono-SemiCondensedLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/Condensed/AeonMono-Condensed.woff2') format('woff2'), url('TTF/AeonMono/Condensed/AeonMono-Condensed.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/Regular/AeonMono-Regular.woff2') format('woff2'), url('TTF/AeonMono/Regular/AeonMono-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: semi-condensed;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/SemiCondensed/AeonMono-SemiCondensed.woff2') format('woff2'), url('TTF/AeonMono/SemiCondensed/AeonMono-SemiCondensed.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/Condensed/AeonMono-CondensedItalic.woff2') format('woff2'), url('TTF/AeonMono/Condensed/AeonMono-CondensedItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/Regular/AeonMono-Italic.woff2') format('woff2'), url('TTF/AeonMono/Regular/AeonMono-Italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: semi-condensed;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/SemiCondensed/AeonMono-SemiCondensedItalic.woff2') format('woff2'), url('TTF/AeonMono/SemiCondensed/AeonMono-SemiCondensedItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/Condensed/AeonMono-CondensedMedium.woff2') format('woff2'), url('TTF/AeonMono/Condensed/AeonMono-CondensedMedium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/Regular/AeonMono-Medium.woff2') format('woff2'), url('TTF/AeonMono/Regular/AeonMono-Medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: semi-condensed;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/SemiCondensed/AeonMono-SemiCondensedMedium.woff2') format('woff2'), url('TTF/AeonMono/SemiCondensed/AeonMono-SemiCondensedMedium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/Condensed/AeonMono-CondensedMediumItalic.woff2') format('woff2'), url('TTF/AeonMono/Condensed/AeonMono-CondensedMediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/Regular/AeonMono-MediumItalic.woff2') format('woff2'), url('TTF/AeonMono/Regular/AeonMono-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: semi-condensed;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/SemiCondensed/AeonMono-SemiCondensedMediumItalic.woff2') format('woff2'), url('TTF/AeonMono/SemiCondensed/AeonMono-SemiCondensedMediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/Condensed/AeonMono-CondensedSemiBold.woff2') format('woff2'), url('TTF/AeonMono/Condensed/AeonMono-CondensedSemiBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/Regular/AeonMono-SemiBold.woff2') format('woff2'), url('TTF/AeonMono/Regular/AeonMono-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: semi-condensed;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/SemiCondensed/AeonMono-SemiCondensedSemiBold.woff2') format('woff2'), url('TTF/AeonMono/SemiCondensed/AeonMono-SemiCondensedSemiBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/Condensed/AeonMono-CondensedSemiBoldItalic.woff2') format('woff2'), url('TTF/AeonMono/Condensed/AeonMono-CondensedSemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/Regular/AeonMono-SemiBoldItalic.woff2') format('woff2'), url('TTF/AeonMono/Regular/AeonMono-SemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: semi-condensed;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/SemiCondensed/AeonMono-SemiCondensedSemiBoldItalic.woff2') format('woff2'), url('TTF/AeonMono/SemiCondensed/AeonMono-SemiCondensedSemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/Condensed/AeonMono-CondensedBold.woff2') format('woff2'), url('TTF/AeonMono/Condensed/AeonMono-CondensedBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/Regular/AeonMono-Bold.woff2') format('woff2'), url('TTF/AeonMono/Regular/AeonMono-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: semi-condensed;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/SemiCondensed/AeonMono-SemiCondensedBold.woff2') format('woff2'), url('TTF/AeonMono/SemiCondensed/AeonMono-SemiCondensedBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/Condensed/AeonMono-CondensedBoldItalic.woff2') format('woff2'), url('TTF/AeonMono/Condensed/AeonMono-CondensedBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/Regular/AeonMono-BoldItalic.woff2') format('woff2'), url('TTF/AeonMono/Regular/AeonMono-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: semi-condensed;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/SemiCondensed/AeonMono-SemiCondensedBoldItalic.woff2') format('woff2'), url('TTF/AeonMono/SemiCondensed/AeonMono-SemiCondensedBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/Condensed/AeonMono-CondensedExtraBold.woff2') format('woff2'), url('TTF/AeonMono/Condensed/AeonMono-CondensedExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/Regular/AeonMono-ExtraBold.woff2') format('woff2'), url('TTF/AeonMono/Regular/AeonMono-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: semi-condensed;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/SemiCondensed/AeonMono-SemiCondensedExtraBold.woff2') format('woff2'), url('TTF/AeonMono/SemiCondensed/AeonMono-SemiCondensedExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/Condensed/AeonMono-CondensedExtraBoldItalic.woff2') format('woff2'), url('TTF/AeonMono/Condensed/AeonMono-CondensedExtraBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/Regular/AeonMono-ExtraBoldItalic.woff2') format('woff2'), url('TTF/AeonMono/Regular/AeonMono-ExtraBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: semi-condensed;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/SemiCondensed/AeonMono-SemiCondensedExtraBoldItalic.woff2') format('woff2'), url('TTF/AeonMono/SemiCondensed/AeonMono-SemiCondensedExtraBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/Condensed/AeonMono-CondensedHeavy.woff2') format('woff2'), url('TTF/AeonMono/Condensed/AeonMono-CondensedHeavy.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/Regular/AeonMono-Heavy.woff2') format('woff2'), url('TTF/AeonMono/Regular/AeonMono-Heavy.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: semi-condensed;
+	font-style: normal;
+	src: url('WOFF2/AeonMono/SemiCondensed/AeonMono-SemiCondensedHeavy.woff2') format('woff2'), url('TTF/AeonMono/SemiCondensed/AeonMono-SemiCondensedHeavy.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/Condensed/AeonMono-CondensedHeavyItalic.woff2') format('woff2'), url('TTF/AeonMono/Condensed/AeonMono-CondensedHeavyItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/Regular/AeonMono-HeavyItalic.woff2') format('woff2'), url('TTF/AeonMono/Regular/AeonMono-HeavyItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aeon Mono Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: semi-condensed;
+	font-style: italic;
+	src: url('WOFF2/AeonMono/SemiCondensed/AeonMono-SemiCondensedHeavyItalic.woff2') format('woff2'), url('TTF/AeonMono/SemiCondensed/AeonMono-SemiCondensedHeavyItalic.ttf') format('truetype');
+}
