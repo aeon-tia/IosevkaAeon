@@ -98,6 +98,7 @@ lower-lambda = "tailed-turn"
 lower-tau = "tailed"
 lower-chi = "semi-chancery-straight-serifless"
 lower-psi = "flat-top-serifed"
+asterisk = "hex-low"
 
 [buildPlans.AeonMono.variants.italic]
 one = "base"
@@ -117,6 +118,16 @@ lower-kappa = "curly-serifless"
 lower-lambda = "tailed-turn"
 lower-tau = "tailed"
 lower-psi = "flat-top-serifed"
+
+[buildPlans.AeonMono.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.AeonMono.weights.Bold]
+shape = 700
+menu = 700
+css = 700
 
 [buildPlans.AeonMono.widths.Condensed]
 shape = 500
