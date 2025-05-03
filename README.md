@@ -8,7 +8,7 @@ Regular, SemiCondensed, and Condensed widths are available for all variants.
 
 ### Monospaced
 
-The monospaced variant, is intended for use in terminals, text editors, IDEs, etc. A Nerd Font version Aeon Mono, Aeon Mono Nerd Font, is also available, which has been patched with all [Nerd Font](https://www.nerdfonts.com/) icons using their [font patcher](https://github.com/ryanoasis/nerd-fonts?tab=readme-ov-file#font-patcher).
+The monospaced variant, Aeon Mono, is intended for use in terminals, text editors, IDEs, etc. A Nerd Font version, Aeon Mono Nerd Font, is also available, which has been patched with all [Nerd Font](https://www.nerdfonts.com/) icons using their [font patcher](https://github.com/ryanoasis/nerd-fonts?tab=readme-ov-file#font-patcher).
 
 ### Quasi-proportional
 
