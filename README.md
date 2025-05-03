@@ -12,7 +12,7 @@ The monospaced variant, Aeon Mono, is intended for use in terminals, text editor
 
 ### Quasi-proportional
 
-The quasi-proportional variant, Aeon Aile, is intended for regular body text, such as in documents or notes.
+The quasi-proportional variant, Aeon, is intended for regular body text, such as in documents or notes.
 
 ## Use
 
